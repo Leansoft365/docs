@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-480fdf18","path":"/en/docs/plugins/page.html","title":"Page Enhancement Plugin","lang":"en-US","frontmatter":{"title":"Page Enhancement Plugin","date":"2022-01-29T17:18:23.000Z"},"headers":[],"git":{},"filePathRelative":"en/docs/plugins/page.md"}');export{e as data};

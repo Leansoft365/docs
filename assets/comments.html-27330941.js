@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-70ed11a2","path":"/en/docs/plugins/comments.html","title":"Comment plugin","lang":"en-US","frontmatter":{"title":"Comment plugin","date":"2022-01-29T17:18:23.000Z"},"headers":[],"git":{},"filePathRelative":"en/docs/plugins/comments.md"}');export{e as data};

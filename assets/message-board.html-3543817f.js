@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7a391440","path":"/en/docs/message-board.html","title":"message board","lang":"en-US","frontmatter":{"title":"message board","date":"2023-01-01T00:00:00.000Z","hideComments":false},"headers":[],"git":{},"filePathRelative":"en/docs/message-board.md"}');export{e as data};

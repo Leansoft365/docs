@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7b85d670","path":"/docs/plugins/bulletin-popover.html","title":"公告插件","lang":"zh-CN","frontmatter":{"title":"公告插件","date":"2022-02-05T22:04:43.000Z"},"headers":[],"git":{},"filePathRelative":"docs/plugins/bulletin-popover.md"}');export{t as data};

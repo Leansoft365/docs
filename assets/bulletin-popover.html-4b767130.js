@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e12134f8","path":"/en/docs/plugins/bulletin-popover.html","title":"Announcement plugin","lang":"en-US","frontmatter":{"title":"Announcement plugin","date":"2022-02-05T22:04:43.000Z"},"headers":[],"git":{},"filePathRelative":"en/docs/plugins/bulletin-popover.md"}');export{e as data};

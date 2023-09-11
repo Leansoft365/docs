@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2465941b","path":"/docs/plugins/comments.html","title":"评论插件","lang":"zh-CN","frontmatter":{"title":"评论插件","date":"2022-01-29T17:18:23.000Z"},"headers":[],"git":{},"filePathRelative":"docs/plugins/comments.md"}');export{t as data};

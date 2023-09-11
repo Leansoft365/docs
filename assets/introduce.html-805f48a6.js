@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-63bd45f0","path":"/docs/guide/introduce.html","title":"介绍","lang":"zh-CN","frontmatter":{"title":"介绍","date":"2021-10-20T23:30:52.000Z"},"headers":[{"level":2,"title":"Laplace.NET","slug":"laplace-net","link":"#laplace-net","children":[]}],"git":{},"filePathRelative":"docs/guide/introduce.md"}');export{e as data};

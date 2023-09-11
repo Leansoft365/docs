@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f407c65e","path":"/en/docs/plugins/vue-previews.html","title":"vue component preview plugin","lang":"en-US","frontmatter":{"title":"vue component preview plugin","date":"2022-01-29T17:18:23.000Z"},"headers":[],"git":{},"filePathRelative":"en/docs/plugins/vue-previews.md"}');export{e as data};
